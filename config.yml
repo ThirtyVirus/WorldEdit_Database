@@ -1,0 +1,24 @@
+# WorldEdit Database for Craftbukkit / Spigot
+# Author: Brandon (ThirtyVirus) Calabrese
+#
+# YouTube:      https://www.youtube.com/channel/UC04QdEl71CFDogk8pzY7Geg
+# Twitter:      https://twitter.com/Thirtyvirus
+# SpigotMC:     https://www.spigotmc.org/members/thirtyvirus.179587/
+
+# FILE: config.yml
+# These are the settings for WorldEdit Database. Change whatever you like but do not remove any
+# non-comment lines, as this will result in errors.
+
+# FUNCTIONAL PROPERTIES
+
+# the ip
+database-ip: 192.168.1.1
+
+# the name
+database-name: worldedit_database
+
+# the username
+database-username: worldedit_user
+
+# the password
+database-password: worldedit_password

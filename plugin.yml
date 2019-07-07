@@ -1,0 +1,15 @@
+main: thirtyvirus.wedb.WorldEditDatabase
+version: 1.0
+name: WorldEditDatabase
+api-version: 1.13
+
+commands:
+  /dcopy:
+    description: Copy worldedit selection to 'clipboard' section of database
+  /dpaste:
+    description: Paste worldedit schematic from 'clipboard' section of database
+  /dexport:
+    description: Copy worldedit selection to 'saved' section of database
+  /dimport:
+    description: Paste worldedit schematic from 'saved' section of database
+softdepend: [WorldEdit]

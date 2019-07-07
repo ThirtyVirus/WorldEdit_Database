@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WorldEdit_Database:jar">
+    <output-path>$PROJECT_DIR$/../../Test Server/plugins</output-path>
+    <root id="archive" name="WorldEditDatabase.jar">
+      <element id="module-output" name="WorldEdit_Database" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
